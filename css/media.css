@@ -1,0 +1,413 @@
+@media screen and (max-width: 1600px){
+    .top-list li {
+        padding: 0 16px;
+    }
+
+    .main-block {
+        width: 664px;
+        margin: 72px 0 81px -83px;
+    }
+
+    .char-img img {
+        padding: 0 8px;
+    }
+
+    .ord-price {
+        margin-left: 140px;
+    }
+
+    .top-list {
+        padding: 0;
+    }
+
+    .down {
+        background: #0d0d0d url("../img/bg2.png") no-repeat 30% bottom;
+        background-size: 140%;
+        padding: 39px 0 92px;
+    }
+
+    .chose-top {
+        padding-bottom: 0;
+    }
+
+    .ord-price {
+        padding-top: 20px;
+    }
+
+}
+
+@media screen and (max-width: 1200px){
+
+    .down{
+        background-size: cover;
+    }
+
+    .top-list {
+        font-size: 16px;
+    }
+
+    .top-list li {
+        padding: 0 2px;
+        font-size: 15px;
+    }
+
+    .main-block {
+        margin: 232px 0 122px -173px;
+    }
+
+    .func-top {
+        font-size: 33px;
+        line-height: 49px;
+        padding: 29px 6px 24px;
+    }
+
+    .func-text {
+        padding: 0 4px 0;
+    }
+
+    .ord-price {
+        margin-left: 95px;
+    }
+
+    .ord-date-text {
+        font-size: 14px;
+    }
+
+    .ord-button {
+        width: 420px;
+        font-size: 25px;
+    }
+
+    .chose-button {
+        width: 306px;
+    }
+
+    .chose-char-button {
+        width: 306px;
+    }
+
+    .desc-list{
+        -moz-column-count: 1; /* Firefox */
+        -webkit-column-count: 1; /* Safari and Chrome */
+        column-count: 1;
+    }
+
+    .modal-dialog {
+        width: 90%;
+        margin: 30px auto;
+    }
+
+
+}
+
+@media screen and (max-width: 992px){
+
+    .container{
+        width: 100%;
+    }
+
+    .top-list{
+        display: none;
+    }
+
+    body{
+        max-width: 640px;
+        margin: 0 auto;
+    }
+
+    .main {
+        margin-top: 64px;
+    }
+
+
+    .menu{
+        display: block;
+    }
+
+    .top {
+        padding: 0;
+        max-width: 640px;
+    }
+
+    .blueMobileMenuIcon {
+        height: 96px;
+        width: 96px;
+        margin-top: 17px;
+        margin-left: 19px;
+    }
+
+    .top-logo {
+        margin: 49px auto 0;
+        display: block;
+    }
+
+    .top-button {
+
+        width: 202px;
+        border-radius: 100px;
+        background-color: #00A046;
+        box-shadow: 0 16px 24px 0 rgba(10,14,52,0.5);
+        color: #FFFFFF;
+        font-family: "Open Sans";
+        font-size: 29px;
+        font-weight: 600;
+        line-height: 76px;
+        text-align: center;
+        margin: 26px auto 0;
+    }
+
+    .main {
+        background: #000000;
+    }
+
+    .main-block {
+        margin: 0 auto 0;
+        width: auto;
+        height: auto;
+        background-color: transparent;
+        text-align: center;
+    }
+
+    .main-button {
+        margin: 0 auto;
+    }
+
+    .main-price {
+        padding-bottom: 10px;
+    }
+
+    .det-list {
+        padding: 0 26px;
+    }
+
+    .pay-text {
+        margin: 0 auto 20px;
+    }
+
+    .chose-button {
+        margin: 0 auto 50px;
+    }
+
+    .rule-line {
+
+        border-right: 0px solid black;
+
+    }
+
+    .down {
+        background: #111;
+        padding: 27px 0 0;
+    }
+
+    .blueMobileMenu li {
+        width: 300px;
+    }
+
+    .img-small{
+        display: block;
+        width: 100%;
+    }
+
+    .form{
+        padding-bottom: 10px;
+    }
+
+    .tec-img {
+        height: 54px;
+        margin-bottom: 5px;
+        margin-top: 16px;
+    }
+
+    .func-line {
+        margin: 26px 0 14px 0;
+    }
+
+    .main-garant {
+        margin: 0 auto 17px;
+    }
+
+    .ord-price {
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .product-specs__highlights-list {
+        font-size: 14px;
+        line-height: 20px;
+        padding-left: 14px;
+    }
+
+    .modal-content {
+        padding: 10px;
+    }
+
+
+
+}
+
+@media screen and (max-width: 768px){
+
+    .func-img {
+        margin-bottom: 0;
+        display: block;
+        margin: 0 auto 20px;
+    }
+    .func-text{
+        margin: 0 auto 70px;
+    }
+
+    .blueMobileMenuIcon {
+        height: 50px;
+        width: 50px;
+        margin-top: 7px;
+        margin-left: 19px;
+    }
+
+    .top-logo {
+        margin: 17px auto 0;
+        display: block;
+        height: 32px;
+        width: 130px;
+    }
+
+    .top-button {
+        width: 120px;
+        border-radius: 100px;
+        background-color: #00A046;
+        box-shadow: 0 16px 24px 0 rgba(10,14,52,0.5);
+        color: #FFFFFF;
+        font-family: "Open Sans";
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 40px;
+        text-align: center;
+        margin: 13px auto 13px;
+    }
+
+    .main-button, .ord-button {
+        width: 320px;
+        font-size: 20px;
+        line-height: 60px;
+    }
+
+    .intel-top {
+        font-size: 27px;
+        line-height: 32px;
+    }
+
+    .func-img3 {
+        margin-top: 0;
+    }
+
+    .tec-small{
+        display: block;
+    }
+
+    .tec-big{
+        display: none;
+    }
+
+    .tec-img {
+        height: 70px;
+    }
+
+    .tec-text {
+        color: #3E3E3E;
+        font-family: "Open Sans";
+        font-size: 30px;
+        line-height: 24px;
+        height: 70px;
+        vertical-align: middle;
+        display: table-cell;
+        text-align: left;
+    }
+
+    .chose-char-box{
+        display: block;
+    }
+
+    .chose-char-mobile{
+        background-color: #F0F0F0;
+    }
+
+    .chose-char-mobile p{
+        color: #0E0E0E;
+        font-family: "Open Sans";
+        font-size: 18px;
+        font-weight: bold;
+        line-height: 24px;
+        text-align: left;
+        max-width: 270px;
+        margin: 3px auto 0;
+    }
+
+    .chose-char-mobile span{
+        color: #0E0E0E;
+        font-family: "Open Sans";
+        font-size: 16px;
+        line-height: 22px;
+        font-weight: normal;
+        display: block;
+    }
+
+    .readmore-js-toggle{
+        color: #2D2D2D;
+        font-family: "Open Sans";
+        font-size: 16px;
+        line-height: 22px;
+        text-align: center;
+        background-color: #F0F0F0;
+        display: block;
+        padding: 18px 18px;
+        margin-bottom: 15px;
+    }
+
+    .chose-name {
+        padding: 10px 0 13px;
+    }
+
+    .chose .tec-small{
+        display: block;
+        max-width: 300px;
+        margin: 0 auto;
+    }
+
+    .chose .tec-text {
+        font-size: 23px;
+    }
+
+    .chose .tec-img {
+        height: 53px;
+    }
+
+    .chose .tec-small .row{
+        border-top: 1px solid #DCDCDC;
+    }
+
+.chose-char-button{
+    display: none;
+}
+
+.chose-char{
+    display: none
+}
+
+
+
+}
+
+@media screen and (max-width: 480px){
+
+
+}
+
+@media screen and (max-width: 320px){
+
+    .main-price-old{
+        color: green;
+    }
+}
+
+
+
+

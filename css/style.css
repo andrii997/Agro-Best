@@ -1,0 +1,30 @@
+.container{
+    padding: 0;
+    /*width: 1530px;*/
+}
+
+
+@font-face {
+ font-family: Montserrat;
+ src: url(fonts/Montserrat-Bold.ttf);
+}
+
+@font-face {
+ font-family: Montserrat;
+ src: url(fonts/Montserrat-Regular.ttf);
+}
+
+.p {
+    font-family: "Helvetica";
+    font-weight: bold;
+}
+.pq {
+    font-family: "Helvetica";
+}
+.pw {
+    font-family: "Montserrat";
+    font-weight: bold;
+}
+.pe {
+    font-family: "Montserrat";
+}
